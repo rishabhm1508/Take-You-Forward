@@ -4,6 +4,8 @@
 // Approach - If the loop runs till square root and none of the numbers divided it completely.
 // So it is the Prime number.
 
+//Time Complexity: O(√n)
+
 function checkIsPrime(n) {
   if (n < 3 && n > 0) {
     return true;
