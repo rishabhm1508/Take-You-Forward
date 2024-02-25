@@ -6,7 +6,7 @@
  *
  * <----------------Important------------->
  * You take the last element in the sub array and move left until the correct position is reached
- * for that element.
+ * for that element. That is, you swap swap swap until you get the correct spot.
  */
 
 function insertionSort(arr) {

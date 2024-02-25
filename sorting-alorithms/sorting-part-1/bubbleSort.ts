@@ -1,6 +1,7 @@
 /**
  * =================== Main Highlight =================
  * Push the biggest element to the right of the array or the smallest element bubbles up.
+ * You assume first element is biggest and compare to the next, if not then swap.
  * =================== Main Highlight =================
  * Opposite of selection sort.
  * You will run the loop - 0 -> n-1, 0 -> n-2, 0 -> n-3 until 0 -> 1, so basically i goes from

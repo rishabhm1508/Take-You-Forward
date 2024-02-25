@@ -1,5 +1,5 @@
 /**
- * Select minimum and sort
+ * Select minimum index and swap ( or sort )
  *
  *  - outer loop runs 0 to n-2 times because the last element would be already sorted.
  *  - inner loop runs i to n-1 times. Number of times loop runs decreased with i increasing
